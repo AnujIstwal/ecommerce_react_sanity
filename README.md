@@ -1,3 +1,6 @@
+
+![image](https://github.com/AnujIstwal/ecommerce_react_sanity/assets/99342265/0f406425-46ed-49af-86b2-d803a49181dc)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
